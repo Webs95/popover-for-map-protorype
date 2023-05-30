@@ -1,3 +1,5 @@
-# popover-for-map-protorype
+# popover-for-map-protorype  
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-afdayr)
+One of the options for implementing the selection of information about a resident by clicking on his marker.  
+
+[Demo ⚡️](https://stackblitz.com/edit/angular-afdayr)
