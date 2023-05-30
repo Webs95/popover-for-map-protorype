@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+
+  background: url('https://i.ibb.co/sVmPM2c/image.png');
+}
+
+#click-trigger {
+  width: 20px;
+  height: 20px;
+
+  background-color: red;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.content {
+  width: 300px;
+  height: 218px;
+  margin: auto;
+  background: linear-gradient(30deg, red, yellow, green);
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ion-popover {
+  --width: 350px;
+  --height: 250px;
+}
